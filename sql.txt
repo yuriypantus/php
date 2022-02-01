@@ -1,0 +1,2 @@
+CREATE TABLE `spravochnick`.`spravochnik` ( `id` INT NOT NULL AUTO_INCREMENT COMMENT 'Код' , `Name` VARCHAR NOT NULL , PRIMARY KEY (`id`));
+## Создание таблицы
